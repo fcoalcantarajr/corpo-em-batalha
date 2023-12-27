@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Episódios
-slug: code
+slug: episodios
 description: ""
 ---
