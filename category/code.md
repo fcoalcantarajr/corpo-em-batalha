@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
+title: Episódios
 slug: code
-description: A category for code related posts.
+description: ""
 ---
