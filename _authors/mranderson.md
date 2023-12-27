@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: ""
+photo: /assets/img/uploads/erika.jpg
 name: Erika
 display_name: Érika Nogueira
 position: The One
