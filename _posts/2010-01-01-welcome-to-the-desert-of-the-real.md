@@ -12,11 +12,11 @@ tags:
 author: Erika
 paginate: true
 ---
-## A﻿ssista ao episódio: 
+## Assista ao episódio: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_UFsDqmTtmA?si=ypqgW0MX1M3hdJOB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### C﻿om tradução em Libras:
+### Com tradução em Libras:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JTuj88kTqJc?si=o-G4bMAyIBsTODhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
