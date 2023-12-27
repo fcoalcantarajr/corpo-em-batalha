@@ -6,7 +6,7 @@ subtitle: ""
 description: Episódio 2 - Laboral Crew
 image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
 optimized_image: ""
-category: code
+category: episodios
 tags:
   - episodios
 author: Erika
