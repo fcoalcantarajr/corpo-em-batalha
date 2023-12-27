@@ -21,7 +21,7 @@ Aqui, a batalha ganha um conceito mais amplo: entender o cenário em que se enco
 
 [](https://corpo-em-batalha.netlify.app/why-books-should-be-your-priority/)A Sul Clan, composta somente por bboys (dançarinos do estilo Breaking), tem 9 anos de história e possui integrantes espalhados pelo mundo, especialmente na América e na Europa, onde participam ativamente de batalhas. Aqui, situados em torno do bairro Jangurussu, os membros se encontram regularmente para treinar suas técnicas e participar dos eventos como competidores e parte da produção. Ao longo dos últimos anos, montaram trabalhos cênicos, cuidaram da gestão de um estúdio de dança e atualmente alguns integrantes trabalham na área de educação em artes.
 
-## Episódio 2 - Laboral Crew
+## [Episódio 2 - Laboral Crew](https://corpo-em-batalha.netlify.app/the-quick-brown-fox-jumps-over-a-lazy-dog/)
 
 O Laboral Crew propõe um laboratório de pesquisa nas mais diversas Danças Urbanas Afro-diaspóricas desde que os primeiros integrantes se uniram no Centro Cultural do Bom Jardim. Ezio e Erick Flor, vivenciaram processos em coletivo desde 2013 com um a grande rotatividade de dançarinos no grupo, sempre compondo novas formas de produzir dramaturgias, espetáculos, aulas e eventos.
 
