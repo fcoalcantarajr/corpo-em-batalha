@@ -1,13 +1,13 @@
 name: Corpo em batalha
 title: Corpo em batalha
-description: Corpo em batalha
+description: Corpo em batalha é uma série documental que acompanha as batalhas de dança na cidade de Fortaleza.
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-show_hero: false
+show_hero: true
 menu:
   - title: Home
     url: /
