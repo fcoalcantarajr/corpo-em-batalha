@@ -4,7 +4,7 @@ layout: post
 title: E﻿pisódio 1 - Sul Clan
 subtitle: ""
 description: E﻿pisódio 1 - Sul Clan
-image: ""
+image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
 optimized_image: ""
 category: code
 tags:
