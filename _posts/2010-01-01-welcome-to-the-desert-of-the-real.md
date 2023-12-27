@@ -12,6 +12,7 @@ tags:
   - Corpo-em-batalha
 author: Erika
 paginate: true
+featured: true
 ---
 C﻿orpo em batalha é uma série documental que apresenta o cotidiano de jovens dançarinos que movimentam a cidade de Fortaleza com a cultura Hip Hop.
 
