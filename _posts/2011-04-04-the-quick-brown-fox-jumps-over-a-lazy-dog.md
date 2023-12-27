@@ -1,11 +1,11 @@
 ---
-date: 2023-12-26 23:01:01
+date: 2023-12-26 22:40:00
 layout: post
 title: Episódio 2 - Laboral Crew
 subtitle: ""
 description: Episódio 2 - Laboral Crew
 image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
-optimized_image: ""
+optimized_image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
 category: episódios
 tags:
   - episodios

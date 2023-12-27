@@ -1,11 +1,11 @@
 ---
-date: 2023-12-26 22:23:06
+date: 2023-12-26 22:50:00
 layout: post
 title: Episódio 3 - Sou'l Street
 subtitle: ""
 description: Episódio 3 - Sou'l Street
 image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
-optimized_image: ""
+optimized_image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
 category: episódios
 tags:
   - episodios

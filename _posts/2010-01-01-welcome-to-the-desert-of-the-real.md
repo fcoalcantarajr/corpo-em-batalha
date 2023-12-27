@@ -1,11 +1,11 @@
 ---
-date: 2023-12-26 22:23:06
+date: 2023-12-26 22:30:00
 layout: post
 title: Episódio 1 - Sul Clan
 subtitle: ""
 description: Episódio 1 - Sul Clan
 image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
-optimized_image: ""
+optimized_image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
 category: episódios
 tags:
   - episodios
