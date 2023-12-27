@@ -27,7 +27,7 @@ O Laboral Crew propõe um laboratório de pesquisa nas mais diversas Danças Urb
 
 Há, entre todos os 9 integrantes, uma forte demanda de trabalho que dificulta o encontro, mas cada um sempre leva algo dos demais em seus processos.
 
-## Episódio 3 - Soul Street
+## [Episódio 3 - Soul Street](https://corpo-em-batalha.netlify.app/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/)
 
 A Sou'l Street é a que mais causa o "reboliço na cidade", como diz Barão. Apesar de pouco tempo na cena artística da capital cearense, cerca de 4 anos, seus membros se movimentam nas batalhas desde muito novos. Cresceram nesse meio e hoje buscam formas de transformá-lo. Inovam em formatos, captação de recursos e funções desempenhadas nos eventos, sempre reforçando seus motivos para continuarem onde estão e apoiarem uns aos outros em suas trajetórias - tão diversas e, ainda assim, tão unidas.
 
