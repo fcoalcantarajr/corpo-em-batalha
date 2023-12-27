@@ -1,5 +1,5 @@
 ---
-date: 2023-12-26 22:09:47
+date: 2023-12-26 23:11:00
 layout: post
 title: Corpo em batalha
 subtitle: Série documental que acompanha as batalhas de dança na cidade de Fortaleza.
@@ -34,7 +34,5 @@ A Sou'l Street é a que mais causa o "reboliço na cidade", como diz Barão. Ape
 ## Episódio 4 - Pulsando
 
 Aqui o coletivo extrapola qualquer grupo formado, onde toda a cena artística de Danças Urbanas de Fortaleza compõe os membros de um corpo-cultura que segue pulsando. Não há divisões. Os modos de produzir no espaço são diferentes, mas a intenção ainda é a mesma: movimentar a si e aos demais em prol de algo maior. A batalha diária une mais do que as richas e disputas, e foi no processo de construção da própria série que pudemos perceber isso de forma mais nítida. O encontro entre os três coletivos se dá de forma natural dentro da produção.
-
-fazendo um teste
 
 ![folder corpo em batalha externa](/assets/img/uploads/folder-corpo-em-batalha-externa.jpg "folder corpo em batalha externa")
