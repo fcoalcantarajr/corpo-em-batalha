@@ -4,8 +4,8 @@ layout: post
 title: Episódio 2 - Laboral Crew
 subtitle: ""
 description: Episódio 2 - Laboral Crew
-image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
-optimized_image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
+image: /assets/img/uploads/episodio-2.jpg
+optimized_image: /assets/img/uploads/episodio-2.jpg
 category: episódios
 tags:
   - episodios

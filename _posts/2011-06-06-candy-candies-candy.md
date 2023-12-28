@@ -4,8 +4,8 @@ layout: post
 title: Episódio 4 - Pulsando
 subtitle: ""
 description: Episódio 4 - Pulsando
-image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
-optimized_image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
+image: /assets/img/uploads/episodio-4.jpg
+optimized_image: /assets/img/uploads/episodio-4.jpg
 category: episódios
 tags:
   - episodios

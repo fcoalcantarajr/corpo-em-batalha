@@ -5,8 +5,8 @@ title: Corpo em batalha
 subtitle: Série documental que acompanha as batalhas de dança na cidade de Fortaleza.
 description: "Corpo em batalha: Série documental que acompanha as batalhas de
   dança na cidade de Fortaleza."
-image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
-optimized_image: ""
+image: /assets/img/uploads/episodio-1.jpg
+optimized_image: /assets/img/uploads/episodio-1.jpg
 category: blog
 tags:
   - Corpo-em-batalha

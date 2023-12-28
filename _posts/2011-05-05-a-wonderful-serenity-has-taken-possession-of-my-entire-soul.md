@@ -4,8 +4,8 @@ layout: post
 title: Episódio 3 - Sou'l Street
 subtitle: ""
 description: Episódio 3 - Sou'l Street
-image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
-optimized_image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
+image: /assets/img/uploads/episodio-3.jpg
+optimized_image: /assets/img/uploads/episodio-3.jpg
 category: episódios
 tags:
   - episodios

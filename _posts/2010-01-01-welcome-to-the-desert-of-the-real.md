@@ -4,8 +4,8 @@ layout: post
 title: Episódio 1 - Sul Clan
 subtitle: ""
 description: Episódio 1 - Sul Clan
-image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
-optimized_image: /assets/img/uploads/folder-corpo-em-batalha-externa.jpg
+image: /assets/img/uploads/episodio-1.jpg
+optimized_image: /assets/img/uploads/episodio-1.jpg
 category: episódios
 tags:
   - episodios
