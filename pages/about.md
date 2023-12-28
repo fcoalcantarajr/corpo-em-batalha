@@ -9,7 +9,7 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/logo-corpo-em-batalha.png" alt="Logo Corpo em Batalha" width="200">
 
-### Corpo em batalha
+# Corpo em batalha
 
 Corpo em batalha é uma série documental que apresenta o cotidiano de jovens dançarinos que movimentam a cidade de Fortaleza com a cultura Hip Hop.
 
@@ -17,31 +17,31 @@ Aqui, a batalha ganha um conceito mais amplo: entender o cenário em que se enco
 
 ## Ficha Técnica
 
-# IMAGEM E SOM
+### IMAGEM E SOM
 Cláudio Alves
 Erika Nogueira
 
-# MONTAGEM E EDIÇÃO
+### MONTAGEM E EDIÇÃO
 Erika Nogueira
 Isabela Melo
 
-# PRODUÇÃO
+### PRODUÇÃO
 Ewerson Vitoriano
 Mylena Braga
 Rickson Barros
 
-# DESIGN GRÁFICO
+### DESIGN GRÁFICO
 Erika Nogueira
 Weutler Alves
 
-# FOTOGRAFIA
+### FOTOGRAFIA
 Cláudio Alves
 Erika Nogueira
 Lucas Moreira
 
-# ROTEIRO E DIREÇÃO
+### ROTEIRO E DIREÇÃO
 Erika Nogueira
 
-# APOIO CULTURAL
+### APOIO CULTURAL
 Secretaria de Cultura do Governo do Estado do Ceará
 Este projeto é aprovado pela Secretaria da Cultura do Estado do Ceará, Lei n° 18.012, de 1° de abril de 2022.
